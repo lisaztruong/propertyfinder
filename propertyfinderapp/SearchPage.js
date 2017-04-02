@@ -80,8 +80,9 @@ class SearchPage extends Component {
         </View>
         <TouchableHighlight style={styles.button}
             underlayColor='#99d9f4'>
-          <Text style={styles.buttonText}>Location</Text>
+          <Text style={styles.buttonText}>Locatio</Text>
         </TouchableHighlight>
+        
       </View>
     );
   }
