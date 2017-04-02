@@ -1,0 +1,3 @@
+rootProject.name = 'propertyfinderapp'
+
+include ':app'
